@@ -4,7 +4,7 @@
 
 ## Contents
 
-- Variable
+- [Variable](docs/variable.md)
 - Syntax
 - Condition
 - Text
