@@ -5,7 +5,7 @@
 ## Contents
 
 - [Variable](docs/variable.md)
-- Syntax
+- [Syntax](docs/syntax.md)
 - Condition
 - Text
 - Read and Print
